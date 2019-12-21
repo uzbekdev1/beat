@@ -1,0 +1,13 @@
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater.deps.json
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater.runtimeconfig.json
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater.runtimeconfig.dev.json
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater.dll
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/UzExTaskBeater.pdb
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.csprojAssemblyReference.cache
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.AssemblyInfoInputs.cache
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.AssemblyInfo.cs
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.dll
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.pdb
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/gitlantis/Projects/UzExTask/UzExTaskBeater/obj/Debug/netcoreapp3.0/UzExTaskBeater.csproj.CopyComplete
